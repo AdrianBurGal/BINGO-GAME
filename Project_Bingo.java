@@ -1,6 +1,9 @@
 package proyecto_bingo;
 
 import java.util.Scanner;
+/*
+    Adrián Burgos Gálvez
+*/
 
 public class Proyecto_Bingo {
 
